@@ -1,0 +1,8 @@
+{
+  "name": "Doom: Templar's Wrath",
+  "description": "An immersive, high-octane gothic action experience where a Black Templar space knight purges a corrupted furry horde. Features high-octane 2D arena canvas gameplay, Web Audio sound synthesis, deep armory sanctification, and AI-powered chronicles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
